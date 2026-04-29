@@ -45,7 +45,7 @@ This project is designed as a practical implementation of core programming conce
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/SmartCare-Hospital-System.git
+git clone https://github.com/OsamaHendawi1/SmartCare-Hospital-System.git
 
 2. Open the project in Visual Studio or any C++ IDE
 
